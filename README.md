@@ -84,6 +84,7 @@ Essa aplicação foi desenvolvida como teste de formação no LabyLubyJS da [Lub
 * New Bet
 <br>
 ---
+
 ## 💻 Executando o TGL
 
 ### Pré-requisitos
