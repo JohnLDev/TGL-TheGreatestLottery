@@ -55,20 +55,19 @@ Essa aplicação foi desenvolvida como teste de formação no LabyLubyJS da [Lub
 
 ### Mobile
 <p align="center">
-                                SignIn
-  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MSignIn.png" width="1000px">
-                                SignUp
-  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MSignUp.png" width="1000px">
-                                ResetPassword
-  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MResetPassword.png" width="1000px">
-                                Dashboard
-  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MDash.png" width="1000px">
-                                Account
-  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MAccount.png" width="1000px">
-                                NewBet
-  <img alt="TGL-MOBILE" title="Happy MOBILE" src="./ReadmeImages/MNewBet.png" width="1000px">
-                                Cart
-  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MCart.png" width="1000px">
+                              
+  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MSignIn.png" width="300px" height="600px">
+                                
+  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MSignUp.png" width="300px" height="600px">
+                               
+  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MResetPassword.png" width="300px" height="600px">
+  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MDash.png" width="300px" height="600px">
+                               
+  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MAccount.png" width="300px" height="600px">
+                                
+  <img alt="TGL-MOBILE" title="Happy MOBILE" src="./ReadmeImages/MNewBet.png" width="300px" height="600px">
+                              
+  <img alt="TGL-MOBILE" title="TGL-MOBILE" src="./ReadmeImages/MCart.png" width="300px" height="600px">
 
 </p>
 <br>
