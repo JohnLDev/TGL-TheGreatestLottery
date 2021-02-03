@@ -1,0 +1,37 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": [
+    "plugin:react/recommended",
+    "standard"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react",
+    "prettier"
+  ],
+
+  "rules": {
+    "react/prop-types":"off",
+    "react/jsx-one-expression-per-line":"off",
+    "space-before-function-paren": ["error", "never"],
+    "comma-dangle": ["error", "always-multiline"],
+    "prettier/prettier":"error",
+    "camelcase": "off",
+    "import/prefer-default-export":"off",
+    "generator-star-spacing":"off",
+    "no-unused-vars":["error",{
+      "argsIgnorePattern":"_"
+      }],
+      "multiline-ternary":"off"
+    }
+  }
