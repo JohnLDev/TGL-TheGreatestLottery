@@ -119,7 +119,7 @@ $ git clone https://github.com/johnldev/TGL-TheGreatestLottery
 $ cd TGL-TheGreatestLottery
 
 ```
-### 💻 Rodando o Happy web
+### 💻 Rodando o TGL web
 
 Entre na pasta 
 
@@ -213,7 +213,7 @@ $ npm run dev
 ```
 
 
-### 📱 Rodando o Happy mobile 
+### 📱 Rodando o TGL mobile 
 
 
 Entre na pasta
